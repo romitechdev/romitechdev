@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Enhancing my skills in AI 🤖 and developing an innovative web-based project 🌐.  <br><br>🤝 Looking to collaborate on AI-powered web development projects 🚀 or unique tech innovations 💡.  <br><br>❓ Seeking help with advanced AI algorithms 🧠 and integrating them seamlessly into web applications 💻.  <br><br>📚 Currently learning machine learning frameworks 🛠️ and their applications in modern web development 🔍.  <br><br>💬 Ask me about web development 🌟, programming languages 🖥️, or my project experiences 🔧.  <br><br>🎉 Fun fact: I’ve been programming for 2.5 years and have built multiple projects showcasing diverse skills 🎨✨.  
+🌟 Enhancing my skills in AI 🤖 and developing an innovative web-based project 🌐.  <br>🤝 Looking to collaborate on AI-powered web development projects 🚀 or unique tech innovations 💡.  <br>❓ Seeking help with advanced AI algorithms 🧠 and integrating them seamlessly into web applications 💻.  <br>📚 Currently learning machine learning frameworks 🛠️ and their applications in modern web development 🔍.  <br><br>💬 Ask me about web development 🌟, programming languages 🖥️, or my project experiences 🔧.  <br>🎉 Fun fact: I’ve been programming for 2.5 years and have built multiple projects showcasing diverse skills 🎨✨.  
 
 
 ## 🌐 Socials:
